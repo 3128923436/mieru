@@ -11,12 +11,12 @@
     ],
     "users": [
         {
-            "name": "baozi",
-            "password": "shilishanlubuhuanjian"
+            "name": "user1",
+            "password": "password"
         },
         {
-            "name": "dongtaiqingling",
-            "password": "touzhele"
+            "name": "user2",
+            "password": "password"
         }
     ],
     "loggingLevel": "INFO",
