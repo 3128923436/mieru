@@ -3,8 +3,8 @@
         {
             "profileName": "default",
             "user": {
-                "name": "baozi",
-                "password": "shilishanlubuhuanjian"
+                "name": "user1",
+                "password": "password"
             },
             "servers": [
                 {
